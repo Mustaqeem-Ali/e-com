@@ -18,12 +18,12 @@ To set up the project locally, follow these steps:
 2. Change the Directory
    ```bash
    cd fashion-hub
-```
+   ```
 3.To install all the Dependencies
    ```bash
    cd client && npm install
    cd ../server && npm install
-```
+   ```
 4. To start the server
    ```bash
    cd server && npm start
